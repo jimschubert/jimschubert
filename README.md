@@ -17,6 +17,9 @@ Jim here. I like to focus on developer and user productivity through tooling and
 
 Check out some of my pinned repositories. And feel free to ask me anything.
 
+If you have a <kbd>leave</kbd><kbd>your</kbd><kbd>current</kbd><kbd>job</kbd> type of opportunity, check out my resume to get in touch. Serious connections only.  
+https://jimschubert.us/
+
 ## Hottake: I'll always be better than AI
 ![image](https://github.com/jimschubert/jimschubert/assets/109659/64202ea7-0c55-4c46-a08b-046a47cd5161)
 
