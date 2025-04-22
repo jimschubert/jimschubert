@@ -17,7 +17,7 @@ Jim here. I like to focus on developer and user productivity through tooling and
 
 Check out some of my pinned repositories. And feel free to ask me anything.
 
-If you have a 👏<kbd>leave</kbd>👏<kbd>your</kbd>👏<kbd>current</kbd>👏<kbd>job</kbd>👏 type of opportunity (I'm talking anyone would be dumb to pass it up), check out my resume to get in touch. Serious connections only because I'm happy where I am. And if you're like, "Junior JavaScript Engineer position is shared with you," I will legit block you from every email account I own.
+Recruiters: I'm happy where I am. And if you're like, "Junior JavaScript Engineer position...," I will legit block you from every email account I own.
 
 https://jimschubert.us/
 
