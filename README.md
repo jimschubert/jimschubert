@@ -21,6 +21,7 @@ Recruiters: I'm happy where I am. And if you're like, "Junior JavaScript Enginee
 
 https://jimschubert.dev/
 
+<!--
 ## Hottake: I'll always be better than AI
 ![image](https://github.com/jimschubert/jimschubert/assets/109659/64202ea7-0c55-4c46-a08b-046a47cd5161)
-
+-->
