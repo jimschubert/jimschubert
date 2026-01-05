@@ -19,14 +19,17 @@ Recruiters: I'm happy where I am. And if you're like, "Junior JavaScript Enginee
 
 https://jimschubert.dev/
 
-## 🌟 Top 10 Interesting Repos
+## 🌟 Top Interesting Repos
 
 These have some stars:
 * [NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect) - Chrome extension (⭐ 522)
 * [intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator (⭐ 78)
-* [labeler-action](https://github.com/jimschubert/labeler-action) - label GitHub issues and PRs(⭐ 42)
+* [labeler-action](https://github.com/jimschubert/labeler-action) - label GitHub issues and PRs (⭐ 42)
+  * [labeler](https://github.com/jimschubert/labeler) - The CLI/library behind the action (⭐ 4)
 * [kopper](https://github.com/jimschubert/kopper) - A simple Kotlin option parser (⭐ 39)
 * [delete-artifacts](https://github.com/jimschubert/delete-artifacts) - Delete GitHub workflow artifacts (⭐ 10)
+* [beast-changelog-action](https://github.com/jimschubert/beast-changelog-action) - This changelog action is a beast :) (⭐ 6)
+  * [changelog](https://github.com/jimschubert/changelog) - The CLI/library behind the action (⭐ 9)
 
 These could use a few more stars:
 * [docked](https://github.com/jimschubert/docked) - A Dockerfile linting tool (⭐ 4)
